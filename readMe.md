@@ -1,4 +1,5 @@
 # 1.什么是nvm
+>nvm(Node Version Manager) node 环境的版本管理工具
 # 2.安装nvm
 ## 2.1windows 安装
 ### 2.1.1[下载地址](https://github.com/coreybutler/nvm-windows/releases)
